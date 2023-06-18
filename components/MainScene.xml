@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="MainScene" extends="Scene">
+    <script type="text/brightscript" uri="MainScene.brs"/>
+    <interface>
+    </interface>
+    <children>
+        <Poster id="backgroundImage" uri="pkg:/images/splash-screen_{size}.png"/>
+    </children>
+</component>
