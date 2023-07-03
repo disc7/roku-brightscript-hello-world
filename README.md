@@ -1,4 +1,4 @@
-# Roku BrightScript Helloworld
+# Roku BrightScript Hello world
 
 Starter kit for developing Roku SceneGraph apps using NodeJs and VSCode.
 
